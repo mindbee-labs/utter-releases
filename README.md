@@ -11,8 +11,10 @@ source is private to Mindbee Labs. Utter is a modified version of
    [latest release](https://github.com/mindbee-labs/utter-releases/releases/latest)
    (Apple Silicon Macs).
 2. Open the DMG and drag **Utter** to **Applications**.
-3. The builds are not notarized by Apple yet: the first time, right-click
-   **Utter.app → Open**, then confirm.
+3. The builds are not notarized by Apple yet, so macOS blocks the first
+   launch. Open **System Settings › Privacy & Security** and click
+   **Open Anyway** next to the Utter message, then confirm. (On macOS 14 and
+   earlier, right-click **Utter.app → Open** instead.)
 4. Allow **Microphone** and **Accessibility** (Accessibility lets Utter paste
    the text for you).
 
