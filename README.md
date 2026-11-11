@@ -5,9 +5,7 @@ Utter turns what you say into text in whatever app you are using. Press
 recognition runs entirely on your Mac; AI is optional and only runs when you
 ask for it.
 
-This repository only hosts the installers and the update feed; the source is
-private to Mindbee Labs. Utter is a modified version of
-[Handy](https://github.com/cjpais/Handy) by CJ Pais (MIT licence).
+This repository only hosts the installers and the update feed.
 
 **[Download the latest version](https://github.com/mindbee-labs/utter-releases/releases/latest)**
 · Macs with Apple silicon, macOS 13 or later
